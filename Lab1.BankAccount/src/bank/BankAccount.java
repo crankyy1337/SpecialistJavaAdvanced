@@ -1,4 +1,4 @@
-package lab1.bank;
+package bank;
 
 public class BankAccount {
     //поля
