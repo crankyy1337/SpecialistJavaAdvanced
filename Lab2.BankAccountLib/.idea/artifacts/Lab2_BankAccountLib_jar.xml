@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab2.BankAccountLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab2_BankAccountLib_jar</output-path>
+    <root id="archive" name="Lab2.BankAccountLib.jar">
+      <element id="module-output" name="Lab2.BankAccountLib" />
+    </root>
+  </artifact>
+</component>
