@@ -1,0 +1,28 @@
+[
+	{
+		"type" : "Point",
+		"x" : 10,
+		"y" : 20,
+		"color" : "Black"
+	},
+	{
+		"type" : "Circle",
+		"x" : 10,
+		"y" : 20,
+		"radius" : 20,
+		"color" : "Black"
+	},
+	{
+		"type" : "Point",
+		"x" : 2,
+		"y" : 3,
+		"color" : "Green"
+	},
+	{
+		"type" : "Circle",
+		"x" : 10,
+		"y" : 20,
+		"radius" : 20,
+		"color" : "Red"
+	}
+]
